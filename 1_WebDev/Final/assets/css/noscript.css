@@ -1,0 +1,20 @@
+/*
+	Profile By Saj Arora
+	Free for personal and commercial use under the MIT license
+*/
+
+/* Basic */
+
+	body:after {
+		display: none;
+	}
+
+/* Main */
+
+	#main {
+		-moz-transform: none !important;
+		-webkit-transform: none !important;
+		-ms-transform: none !important;
+		transform: none !important;
+		opacity: 1 !important;
+	}
